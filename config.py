@@ -1,1 +1,2 @@
 API_TOKEN = '5340762609:AAFRL7mLzRPzRpd8aiJ-l_sfP3CeLsi2Tj4'
+DATABASE_FILE_PATH = 'db/users.db'
