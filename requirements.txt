@@ -1,0 +1,3 @@
+aiogram
+cv2
+numpy
